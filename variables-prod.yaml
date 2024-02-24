@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb-prod.nikhildevops.online  # submit your host
+REDIS_HOST: redis-prod.nikhildevops.online 
+MYSQL_HOST: mysql-prod.nikhildevops.online 
+RABBITMQ_HOST: rabbitmq-prod.nikhildevops.online 
+CATALOGUE_HOST: catalogue-prod.nikhildevops.online 
+USER_HOST: user-prod.nikhildevops.online 
+CART_HOST: cart-prod.nikhildevops.online 
+SHIPPING_HOST: shipping-prod.nikhildevops.online 
+PAYMENT_HOST: payment-prod.nikhildevops.online 
+DISPATCH_HOST: dispatch-prod.nikhildevops.online 
