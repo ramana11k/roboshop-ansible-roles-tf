@@ -20,8 +20,8 @@
 
 - name: create rabbitmq user
   community.rabbitmq.rabbitmq_user:
-    user: "{{ lookup('aws_ssm', '/roboshop/{{env}}/rabbitmq_root_user'), region='us-east-1', decrypt=True) }}"
-    password: "{{ lookup('aws_ssm', '/roboshop/{{env}}/rabbitmq_root_password'), region='us-east-1', decrypt=True) }}"
+    user: "{{ lookup('aws_ssm', '/roboshop/{{env}}/rabbitmq_root_user', region='us-east-1', decrypt=True) }}"
+    password: "{{ lookup('aws_ssm', '/roboshop/{{env}}/rabbitmq_root_password', region='us-east-1', decrypt=True) }}"
     vhost: /
     configure_priv: .*
     read_priv: .*
