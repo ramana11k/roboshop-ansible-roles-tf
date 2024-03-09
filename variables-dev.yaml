@@ -7,4 +7,4 @@ USER_HOST: user.app-dev.nikhildevops.online
 CART_HOST: cart.app-dev.nikhildevops.online 
 SHIPPING_HOST: shipping.app-dev.nikhildevops.online 
 PAYMENT_HOST: payment.app-dev.nikhildevops.online 
-DISPATCH_HOST: dispatc.happ-dev.nikhildevops.online 
+DISPATCH_HOST: dispatch.app-dev.nikhildevops.online 
