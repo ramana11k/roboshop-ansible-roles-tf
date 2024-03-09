@@ -2,9 +2,9 @@ MONGODB_HOST: mongodb-dev.nikhildevops.online  # submit your host
 REDIS_HOST: redis-dev.nikhildevops.online 
 MYSQL_HOST: mysql-dev.nikhildevops.online 
 RABBITMQ_HOST: rabbitmq-dev.nikhildevops.online 
-CATALOGUE_HOST: catalogue-dev.nikhildevops.online 
-USER_HOST: user-dev.nikhildevops.online 
-CART_HOST: cart-dev.nikhildevops.online 
-SHIPPING_HOST: shipping-dev.nikhildevops.online 
-PAYMENT_HOST: payment-dev.nikhildevops.online 
-DISPATCH_HOST: dispatch-dev.nikhildevops.online 
+CATALOGUE_HOST: catalogue.app-dev.nikhildevops.online 
+USER_HOST: user.app-dev.nikhildevops.online 
+CART_HOST: cart.app-dev.nikhildevops.online 
+SHIPPING_HOST: shipping.app-dev.nikhildevops.online 
+PAYMENT_HOST: payment.app-dev.nikhildevops.online 
+DISPATCH_HOST: dispatc.happ-dev.nikhildevops.online 
