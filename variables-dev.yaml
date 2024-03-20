@@ -8,3 +8,5 @@ CART_HOST: cart.app-dev.nikhildevops.online
 SHIPPING_HOST: shipping.app-dev.nikhildevops.online 
 PAYMENT_HOST: payment.app-dev.nikhildevops.online 
 DISPATCH_HOST: dispatch.app-dev.nikhildevops.online 
+NEXUS_URL: http://172.31.0.237:8081/repository
+group_id: "com/roboshop"
