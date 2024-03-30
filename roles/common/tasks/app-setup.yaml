@@ -19,7 +19,7 @@
 
 - name: "download {{component}} application"
   ansible.builtin.get_url:
-    url: "${{NEXUS_URL}}/${{component}}/{{group_id}}/${{component}}/${{app_version}}/${{component}}-${{app_version}}"
+    url: "${{NEXUS_URL}}/${{component}}/${{group_id}}/${{component}}/${{app_version}}/${{component}}-${{app_version}}"
     dest: /tmp
 
 
